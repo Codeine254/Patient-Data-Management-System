@@ -14,7 +14,7 @@ Hospital Information Management System - Supports most of the standard HIMS func
 * Room Management
 
 # KEY POINTS
-
+##DATABASE IS OMITTED! IN THE SCRIPTS##AVAILABLE WITH TOKENS#
 * Back-End Technologies: Node Js + MySQL
 * Front-End Technologies: HTML, CSS, BootStrap, JavaScript, EJS
 * Authentication provided using passport-js
